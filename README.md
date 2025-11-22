@@ -35,32 +35,7 @@ graph TD
         D_network_real --> D_network_fake
         D_network_fake --> D_network_gen
     end
-
-    linkStyle 0 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 1 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 2 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 3 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 4 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 5 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 6 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 7 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 8 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 9 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 10 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 11 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 12 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 13 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 14 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 15 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 16 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 17 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 18 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 19 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 20 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 21 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 22 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 23 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 24 stroke:#000,stroke-width:1.5px,fill:none;
-    linkStyle 25 stroke:#000,stroke-width:1.5px,fill:none;
 ```
+
+
 
